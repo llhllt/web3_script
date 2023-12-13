@@ -15,8 +15,8 @@ const web3 = new Web3(provider);
 const accounts = [
   //cfx 网络爆炸推荐多地址 这样成功率略大
   {
-    address: "",
-    privateKey: "",
+    address: "0xe87f6090b24aCc1FeF22E306160Aa94BefF004a2",
+    privateKey: "be0e03d381b91cdd06d8134368472ca087cbee0b15d663fbabd26d684f1d4777",
   },
 ];
 //okts 的 data
